@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/local/lib/python3.10
 #
 # GrovePi Library for using the Grove - Gesture Sensor v1.0(http://www.seeedstudio.com/depot/Grove-Gesture-p-2463.html)
 #
